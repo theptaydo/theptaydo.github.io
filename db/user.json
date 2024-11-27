@@ -709,6 +709,12 @@
         "name": "instagram",
         "text": "lhhai_yen",
         "url": "https://www.instagram.com/lhhai_yen/"
+      },
+      {
+        "name": "whatsapp",
+        "text": "Hai Yen",
+        "url": "https://www.instagram.com/lhhai_yen/",
+        "image": "../assets/img/user/bonus/TSC0740/whatsapp.png"
       }
     ]
   }

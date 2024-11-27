@@ -33,7 +33,7 @@ async function updateEmployeeInfo() {
       const socialLinks = employee.social_links;
       socialLinks.forEach(link => {
         if (link.url) {
-          if (link.name === 'wechat') {
+          if (link.name === 'wechat' || link.name === 'whatsapp') {
             const socialElement = document.getElementById(link.name);
             socialElement.style.display = 'block';
             socialElement.querySelector(".text").textContent = link.text || link.name;
