@@ -1,0 +1,715 @@
+[
+  {
+    "id": "TSC0001",
+    "group": "Ban Tổng Giám đốc",
+    "name": "Huỳnh Trung Quang",
+    "position": "Tổng Giám đốc",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": "../assets/img/user/BAN TONG GIAM DOC/TSC0001.png",
+    "email": "quanght@theptaydo.com",
+    "phone": "0903500606",
+    "social_links": [
+      {
+        "name": "zalo",
+        "text": "0912500606",
+        "url": "zalo.me/0912500606"
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      },
+      {
+        "name": "email",
+        "text": "quanght@theptaydo.com",
+        "url": "mailto:quanght@theptaydo.com"
+      }
+    ]
+  },
+  {
+    "id": "TSC0002",
+    "group": "Ban Tổng Giám đốc",
+    "name": "Huỳnh Nam Anh",
+    "position": "Trợ lý Tổng Giám đốc",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "anhhn@theptaydo.com",
+    "phone": "939201778.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0003",
+    "group": "Ban Tổng Giám đốc",
+    "name": "Đào Duy Tuấn Hùng",
+    "position": "Phó Tổng Giám đốc Quản lý chất lượng",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "hungddt@theptaydo.com",
+    "phone": "903331289.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0004",
+    "group": "Ban Tổng Giám đốc",
+    "name": "Võ Văn Khải",
+    "position": "Phó Tổng Giám đốc Kinh doanh",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "khaivv@theptaydo.com",
+    "phone": "909252626.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0086",
+    "group": "Ban Kiểm soát nội bộ",
+    "name": "Nguyễn Phan Kiều Vân",
+    "position": "Phụ trách Ban kiểm soát nội bộ",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "vannpk@theptaydo.com",
+    "phone": "907664785.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0671",
+    "group": "Ban Kiểm soát nội bộ",
+    "name": "Nguyễn Quỳnh Hoa",
+    "position": "Chuyên viên Kiểm soát nội bộ",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "hoanq@theptaydo.com",
+    "phone": "776837666.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0552",
+    "group": "Phòng Tổ chức - Nhân sự",
+    "name": "Nguyễn Thị Hường",
+    "position": "Trưởng phòng Tổ chức Nhân sự",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "huongnt@theptaydo.com",
+    "phone": "943280885.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0545",
+    "group": "Phòng Kế toán - Tài chính",
+    "name": "Dương Văn Hiệp",
+    "position": "Trưởng phòng Kế toán Tài chính kiêm Kế toán trưởng",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "hiepdv@theptaydo.com",
+    "phone": "903030975.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0305",
+    "group": "Phòng Kế toán - Tài chính",
+    "name": "Nguyễn Thị Kim Loan",
+    "position": "Phó phòng Kế toán Tài chính phụ trách dự án, đầu tư, xây dựng cơ bản",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "loanntk@theptaydo.com",
+    "phone": "989334054.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0546",
+    "group": "Phòng Kế toán - Tài chính",
+    "name": "Nguyễn Thị Hiếu",
+    "position": "Phó phòng Kế toán Tài chính",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "hieunt@theptaydo.com",
+    "phone": "909237227.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0199",
+    "group": "Phòng Kế toán - Tài chính",
+    "name": "Vương Thị Mai Tâm",
+    "position": "Phó phòng phụ trách Kế toán tổng hợp",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "tamvtm@theptaydo.com",
+    "phone": "908003468.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0042",
+    "group": "Văn phòng Công ty",
+    "name": "Nguyễn Thị Thu Tâm",
+    "position": "Chánh văn phòng Công ty",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "tamntt@theptaydo.com",
+    "phone": "939001348.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0711",
+    "group": "Văn phòng Công ty",
+    "name": "Nguyễn Thành Nên",
+    "position": "Phó chánh Văn phòng",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "nennt@theptaydo.com",
+    "phone": "932668524.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0844",
+    "group": "Văn phòng Công ty",
+    "name": "Nguyễn Khánh Duyên",
+    "position": "Phó chánh Văn phòng",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "duyennk@theptaydo.com",
+    "phone": "939597705.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0475",
+    "group": "Văn phòng Công ty",
+    "name": "Phạm Huỳnh Thảo Trân",
+    "position": "Thư ký Tổng Giám đốc kiêm Phó chánh văn phòng",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "tranpht@theptaydo.com\nphttran1811@gmail.com",
+    "phone": "792655068.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0074",
+    "group": "Phòng KHKD",
+    "name": "Nguyễn Văn Thịnh",
+    "position": "Trưởng phòng Kinh doanh",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "thinhnv@theptaydo.com\nvanthinh15051984@gmail.com",
+    "phone": "907384907.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0058",
+    "group": "Phòng KHKD",
+    "name": "Nguyễn Văn Chung",
+    "position": "Phó phòng KHKD",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "chungnv@theptaydo.com\nnvchungtsc@theptaydo.com",
+    "phone": "907226724.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0076",
+    "group": "Phòng KHKD",
+    "name": "Nguyễn My Sên",
+    "position": "Phó phòng KHKD",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "sennm@theptaydo.com",
+    "phone": "976112833.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0469",
+    "group": "Phòng KHKD",
+    "name": "Võ Phạm Hùng Mạnh",
+    "position": "Chuyên viên Xuất Nhập Khẩu",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "vphungmanh.theptaydo@gmail.com",
+    "phone": "907920421",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": "zalo.me/0907920421"
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "text": "武范雄孟 (Mạnh Võ)",
+        "url": "https://u.wechat.com/kDFQ_7MNT9AYA3nXKESL_tI?s=2",
+        "image": "../assets/img/user/KHKD/TSC0469-wechat.png"
+      }
+    ]
+  },
+  {
+    "id": "TSC0151",
+    "group": "Phòng Kỹ thuật",
+    "name": "Hứa Viết Thái",
+    "position": "Trưởng phòng Kỹ thuật",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "thaihv@theptaydo.com",
+    "phone": "908535586.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0765",
+    "group": "Phòng Kỹ thuật",
+    "name": "Nguyễn Văn Út",
+    "position": "Phó phòng Kỹ thuật phụ trách công nghệ",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "nguyenvanut200784@gmail.com",
+    "phone": "977662985.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0745",
+    "group": "Phòng Kỹ thuật",
+    "name": "Lê Thành Tân",
+    "position": "Phó phòng Kỹ thuật kiêm Trưởng ban SHE",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "lethanhtanbk@gmail.com",
+    "phone": "976299192.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0576",
+    "group": "Phòng Kỹ thuật",
+    "name": "Nguyễn Văn Trúc",
+    "position": "Phó phòng Kỹ thuật công nghệ Cán",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "trucnv@theptaydo.com",
+    "phone": "935277368.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0456",
+    "group": "Phòng Kỹ thuật",
+    "name": "Nguyễn Anh Minh",
+    "position": "Phó phòng Kỹ thuật phụ trách thiết bị",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "minhna@theptaydo.com",
+    "phone": "903980745.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0847",
+    "group": "Văn phòng HCM",
+    "name": "Trần Võ Nguyên",
+    "position": "Trưởng văn phòng đại diện HCM",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "nguyentv@theptaydo.com",
+    "phone": "909573696.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0854",
+    "group": "Văn phòng HCM",
+    "name": "Nguyễn Thị Hồng Hà",
+    "position": "Nhân viên mua phế liệu - Nhân viên sale admin",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "hanth@theptaydo.com",
+    "phone": "939444988.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0694",
+    "group": "Văn phòng HCM",
+    "name": "Trần Minh Hậu",
+    "position": "Phó văn phòng đại diện HCM",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "hautm@theptaydo.com",
+    "phone": "939578168.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0046",
+    "group": "Phòng Quản lý Chất lượng",
+    "name": "Đỗ Văn Tuấn",
+    "position": "Trưởng phòng Quản lý chất lượng",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": null,
+    "email": "tuandv@theptaydo.com",
+    "phone": "979766126.0",
+    "social_links": [
+      {
+        "name": "zalo",
+        "url": null
+      },
+      {
+        "name": "facebook",
+        "url": null
+      },
+      {
+        "name": "wechat",
+        "url": null
+      }
+    ]
+  },
+  {
+    "id": "TSC0740",
+    "group": "BONUS",
+    "name": "Lê Hồ Hải Yến",
+    "position": "<<CHỨC VỤ>>",
+    "address": "Lô đất số 45 đường số 2, KCN Trà Nóc 1, P. Trà Nóc, Q. Bình Thuỷ, TP. Cần Thơ",
+    "image": "../assets/img/user/bonus/TSC0740/TSC0740.png",
+    "phone": "0766883279",
+    "email": "yenlhh@theptaydo.com",
+    "social_links": [
+      {
+        "name": "zalo",
+        "text": "Hai Yen",
+        "url": "zalo.me/0766883279"
+      },
+      {
+        "name": "facebook",
+        "text": "Hai Yen",
+        "url": "https://www.facebook.com/profile.php?id=100009949126353https://www.facebook.com/lhhyen22/"
+      },
+      {
+        "name": "wechat",
+        "text": "Hai Yen",
+        "url": "https://u.wechat.com/kDFQ_7MNT9AYA3nXKESL_tI?s=2",
+        "image": "../assets/img/user/bonus/TSC0740/wechat.png"
+      },
+      {
+        "name": "instagram",
+        "text": "lhhai_yen",
+        "url": "https://www.instagram.com/lhhai_yen/"
+      }
+    ]
+  }
+]

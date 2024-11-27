@@ -838,3 +838,7 @@ input[type="checkbox"]:checked~#content {
   text-decoration: underline !important;
   margin-top: 20px;
 }
+
+.social {
+  display: none;
+}
