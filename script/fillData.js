@@ -5,7 +5,7 @@ async function updateEmployeeInfo() {
   const id = urlParams.get('id');
 
   if (!id) {
-    console.error("ID không được cung cấp!");
+    document.body.style.display = 'none';
     return;
   }
 
@@ -48,6 +48,7 @@ async function updateEmployeeInfo() {
       });
     } else {
       console.error("Không tìm thấy nhân viên với ID:", id);
+      document.body.style.display = 'none';
     }
   } catch (error) {
     console.error("Lỗi khi tải dữ liệu:", error);
